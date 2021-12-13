@@ -72,6 +72,7 @@
     />
   </a>
 </p>
+
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/felipe-perozo-costa-122a0a159/">LinkedIn</a>.
