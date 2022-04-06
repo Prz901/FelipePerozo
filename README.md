@@ -18,7 +18,7 @@
 
 ### About
 
-- 🌱 Learning more about and studying: **React & Typescript**.
+- 🌱 Learning more about and studying: **Typescript**.
 - 🤝 Freelancer and open to work
 
 ### Languages and Tools
