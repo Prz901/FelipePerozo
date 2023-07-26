@@ -18,7 +18,7 @@
 
 ### About
 
-- 🌱 Learning more about and studying: **Typescript**.
+- 🌱 Learning more about and studying: **Jest and Clean Architeture**.
 - 🤝 Freelancer and open to work
 
 ### Languages and Tools
